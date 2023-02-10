@@ -1,0 +1,22 @@
+body {  
+    background-color: #f0f5f3;  
+    margin: 20%;  
+}  
+#title {  
+    text-align: center;  
+    text-shadow: 5px 5px 10px white;  
+    font-size: 8vh;  
+}  
+img {  
+    display: inline-block;  
+    width: 100%;  
+}     
+#caption {  
+    font-size: 19px;  
+    font-family:sans-serif;  
+    color: black;  
+}  
+div#tribute-data {  
+    background-color: rgba(246, 248, 247, 0.25);  
+    font-family: 'Default' 
+}
